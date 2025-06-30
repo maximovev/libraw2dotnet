@@ -1,0 +1,14 @@
+C:\projects\git\libraw2dotnet\example\RAW2TIFF\RAW2TIFF\obj\Debug\net8.0\RAW2TIFF.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\git\libraw2dotnet\example\RAW2TIFF\RAW2TIFF\obj\Debug\net8.0\RAW2TIFF.AssemblyInfoInputs.cache
+C:\projects\git\libraw2dotnet\example\RAW2TIFF\RAW2TIFF\obj\Debug\net8.0\RAW2TIFF.AssemblyInfo.cs
+C:\projects\git\libraw2dotnet\example\RAW2TIFF\RAW2TIFF\obj\Debug\net8.0\RAW2TIFF.csproj.CoreCompileInputs.cache
+C:\projects\git\libraw2dotnet\example\RAW2TIFF\RAW2TIFF\bin\Debug\net8.0\RAW2TIFF.exe
+C:\projects\git\libraw2dotnet\example\raw2tiff\RAW2TIFF\bin\Debug\net8.0\RAW2TIFF.deps.json
+C:\projects\git\libraw2dotnet\example\raw2tiff\RAW2TIFF\bin\Debug\net8.0\RAW2TIFF.runtimeconfig.json
+C:\projects\git\libraw2dotnet\example\RAW2TIFF\RAW2TIFF\bin\Debug\net8.0\RAW2TIFF.dll
+C:\projects\git\libraw2dotnet\example\RAW2TIFF\RAW2TIFF\bin\Debug\net8.0\RAW2TIFF.pdb
+C:\projects\git\libraw2dotnet\example\RAW2TIFF\RAW2TIFF\obj\Debug\net8.0\RAW2TIFF.dll
+C:\projects\git\libraw2dotnet\example\RAW2TIFF\RAW2TIFF\obj\Debug\net8.0\refint\RAW2TIFF.dll
+C:\projects\git\libraw2dotnet\example\RAW2TIFF\RAW2TIFF\obj\Debug\net8.0\RAW2TIFF.pdb
+C:\projects\git\libraw2dotnet\example\raw2tiff\RAW2TIFF\obj\Debug\net8.0\RAW2TIFF.genruntimeconfig.cache
+C:\projects\git\libraw2dotnet\example\raw2tiff\RAW2TIFF\obj\Debug\net8.0\ref\RAW2TIFF.dll

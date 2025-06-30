@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RAW2TIFF": {
+      "commandName": "Project",
+      "commandLineArgs": "1DS_1977.CR2"
+    }
+  }
+}
